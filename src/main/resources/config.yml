@@ -1,0 +1,5 @@
+positionToChat:
+  enabledBlocks:
+    - "minecraft:structure_block"
+    - "minecraft:jigsaw"
+  debug: false
